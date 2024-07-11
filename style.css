@@ -1,0 +1,13 @@
+.button {
+    padding: 17px;
+    width: 130px;
+    margin: 300px;
+    background-color: red;
+    border: 0;
+    color: white;
+    transition: 0.5s;
+    animation: infinite;
+}
+.button:hover {
+    transform: scale(1.2,1.2);
+}
